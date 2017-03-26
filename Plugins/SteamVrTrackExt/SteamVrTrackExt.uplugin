@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SteamVrTrackExt",
+	"Description": "Basic SteamVR tracking extension. Allows late updates on additional tracked devices.",
+	"Category": "SteamVR",
+	"CreatedBy": "Brian Marshall",
+	"CreatedByURL": "www.coopinnovations.co.uk",
+	"DocsURL": "https://github.com/TurtleSimos/SteamVrTrackExt",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "SteamVrTrackExt",
+			"Type": "RunTime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

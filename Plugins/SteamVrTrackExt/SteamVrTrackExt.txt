@@ -1,0 +1,4 @@
+SteamVrTrack
+
+Very basic C++ component to track any valid SteamVR Id, with support for late updates.
+
